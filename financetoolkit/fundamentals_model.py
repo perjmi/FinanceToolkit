@@ -8,7 +8,7 @@ import numpy as np
 import pandas as pd
 from tqdm import tqdm
 
-from financetoolkit import fmp_model, normalization_model, yfinance_model
+from financetoolkit import edgar_model, fmp_model, normalization_model, yfinance_model
 from financetoolkit.utilities import error_model, logger_model
 
 # Check if yfinance is installed
@@ -32,6 +32,7 @@ def collect_financial_statements(
     fmp_statement_format: pd.DataFrame = pd.DataFrame(),
     fmp_statistics_format: pd.DataFrame = pd.DataFrame(),
     yf_statement_format: pd.DataFrame = pd.DataFrame(),
+    edgar_statement_format: pd.DataFrame = pd.DataFrame(),
     sleep_timer: bool = True,
     progress_bar: bool = True,
     user_subscription: str = "Free",
@@ -80,6 +81,23 @@ def collect_financial_statements(
     def worker(ticker, financial_statement_dict, enforce_source):
         financial_statement_data = pd.DataFrame()
         attempted_fmp = False
+
+        if enforce_source == "EDGAR":
+            financial_statement_data = edgar_model.get_financial_statement(
+                ticker=ticker,
+                statement=statement,
+                quarter=quarter,
+                fallback=False,
+            )
+
+            financial_statement_dict["EDGAR"][ticker] = financial_statement_data
+
+            if not financial_statement_data.empty:
+                edgar_tickers.append(ticker)
+
+            if financial_statement_data.empty:
+                no_data.append(ticker)
+            return
 
         if api_key and enforce_source in [None, "FinancialModelingPrep"]:
             financial_statement_data = fmp_model.get_financial_statement(
@@ -149,9 +167,11 @@ def collect_financial_statements(
     financial_statement_dict: dict[str, pd.DataFrame] = {
         "FinancialModelingPrep": {},
         "YahooFinance": {},
+        "EDGAR": {},
     }
     fmp_tickers: list[str] = []
     yf_tickers: list[str] = []
+    edgar_tickers: list[str] = []
     no_data: list[str] = []
     threads = []
 
@@ -171,6 +191,7 @@ def collect_financial_statements(
 
     fmp_financial_statements_total = pd.DataFrame()
     yf_financial_statements_total = pd.DataFrame()
+    edgar_financial_statements_total = pd.DataFrame()
     fmp_financial_statement_statistics = pd.DataFrame()
 
     for source, _ in financial_statement_dict.items():
@@ -215,6 +236,22 @@ def collect_financial_statements(
                 if not yf_financial_statements.empty
                 else pd.DataFrame()
             )
+        elif source == "EDGAR" and financial_statement_dict[source]:
+            edgar_financial_statements = pd.concat(
+                financial_statement_dict[source], axis=0
+            )
+
+            edgar_financial_statements_total = (
+                (
+                    normalization_model.convert_financial_statements(
+                        financial_statements=edgar_financial_statements,
+                        statement_format=edgar_statement_format,
+                        reverse_dates=True,
+                    )
+                )
+                if not edgar_financial_statements.empty
+                else pd.DataFrame()
+            )
 
     if fmp_tickers and yf_tickers:
         logger.info(
@@ -226,6 +263,13 @@ def collect_financial_statements(
             "The following tickers acquired %s data from YahooFinance: %s",
             statement,
             ", ".join(yf_tickers),
+        )
+
+    if edgar_tickers:
+        logger.info(
+            "The following tickers acquired %s data from EDGAR: %s",
+            statement,
+            ", ".join(edgar_tickers),
         )
 
     if yf_tickers and not fmp_tickers and enforce_source == "FinancialModelingPrep":
@@ -251,7 +295,7 @@ def collect_financial_statements(
             )
 
     financial_statement_total = pd.concat(
-        [fmp_financial_statements_total, yf_financial_statements_total], axis=0
+        [fmp_financial_statements_total, yf_financial_statements_total, edgar_financial_statements_total], axis=0
     )
 
     financial_statement_statistics = fmp_financial_statement_statistics

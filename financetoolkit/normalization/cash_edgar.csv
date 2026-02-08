@@ -1,0 +1,24 @@
+Cash,Generic
+NetIncomeLoss,Net Income
+DepreciationAndAmortization,Depreciation and Amortization
+DeferredIncomeTax,Deferred Income Tax
+StockBasedCompensation,Stock Based Compensation
+ChangeInAccountsReceivable,Change in Accounts Receivables
+ChangeInInventories,Change in Inventory
+ChangeInAccountsPayable,Change in Accounts Payables
+OtherOperatingActivities,Other Non Cash Items
+NetCashFromOperatingActivities,Cash Flow from Operations
+CapitalExpenditures,"Property, Plant and Equipment"
+PurchaseOfInvestments,Purchases of Investments
+SaleOfInvestments,Sales of Investments
+Acquisitions,Acquisitions
+OtherInvestingActivities,Other Investing Activities
+NetCashFromInvestingActivities,Cash Flow from Investing
+DebtRepayment,Debt Repayment
+DebtIssuance,Net Debt Issued
+CommonStockRepurchased,Common Stock Purchased
+DividendsPaid,Dividends Paid
+OtherFinancingActivities,Other Financing Activities
+NetCashFromFinancingActivities,Cash Flow from Financing
+NetChangeInCash,Net Change in Cash
+CashAtEndOfPeriod,Cash End of Period

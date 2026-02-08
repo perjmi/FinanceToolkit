@@ -360,9 +360,9 @@ class Toolkit:
 
         self._enforce_source: str | None = enforce_source
 
-        if self._enforce_source not in [None, "FinancialModelingPrep", "YahooFinance"]:
+        if self._enforce_source not in [None, "FinancialModelingPrep", "YahooFinance", "EDGAR"]:
             raise ValueError(
-                "Please select either FinancialModelingPrep or YahooFinance as the "
+                "Please select either FinancialModelingPrep, YahooFinance or EDGAR as the "
                 "enforced source."
             )
         if self._enforce_source == "FinancialModelingPrep" and not self._api_key:
@@ -507,10 +507,13 @@ class Toolkit:
             self._statistics_statement,
             self._fmp_balance_sheet_statement_generic,
             self._yf_balance_sheet_statement_generic,
+            self._edgar_balance_sheet_statement_generic,
             self._fmp_income_statement_generic,
             self._yf_income_statement_generic,
+            self._edgar_income_statement_generic,
             self._fmp_cash_flow_statement_generic,
             self._yf_cash_flow_statement_generic,
+            self._edgar_cash_flow_statement_generic,
             self._fmp_statistics_statement_generic,
         ) = _initialize_statements_and_normalization(
             balance=balance,
@@ -1999,9 +2002,10 @@ class Toolkit:
         if enforce_source is not None and enforce_source not in [
             "FinancialModelingPrep",
             "YahooFinance",
+            "EDGAR",
         ]:
             raise ValueError(
-                "The enforce_source parameter must be either 'FinancialModelingPrep' or 'YahooFinance'."
+                "The enforce_source parameter must be either 'FinancialModelingPrep', 'YahooFinance' or 'EDGAR'."
             )
 
         if self._daily_risk_free_rate.empty or overwrite:
@@ -2705,9 +2709,10 @@ class Toolkit:
         if enforce_source is not None and enforce_source not in [
             "FinancialModelingPrep",
             "YahooFinance",
+            "EDGAR",
         ]:
             raise ValueError(
-                "The enforce_source parameter must be either 'FinancialModelingPrep' or 'YahooFinance'."
+                "The enforce_source parameter must be either 'FinancialModelingPrep', 'YahooFinance' or 'EDGAR'."
             )
 
         if self._daily_treasury_data.empty or False in specific_rates:
@@ -3188,7 +3193,7 @@ class Toolkit:
         ):
             logger.error(
                 "The requested data requires the api_key parameter to be set or the enforce_source "
-                "parameter set to 'YahooFinance', consider obtaining a key with the following link: "
+                "parameter set to 'YahooFinance' or 'EDGAR', consider obtaining a key with the following link: "
                 "https://www.jeroenbouma.com/fmp"
                 "\nThe free plan allows for 250 requests per day, a limit of 5 years and has no "
                 "quarterly data. Consider upgrading your plan. You can get 15% off by using the "
@@ -3199,9 +3204,10 @@ class Toolkit:
         if enforce_source is not None and enforce_source not in [
             "FinancialModelingPrep",
             "YahooFinance",
+            "EDGAR",
         ]:
             raise ValueError(
-                "The enforce_source parameter must be either 'FinancialModelingPrep' or 'YahooFinance'."
+                "The enforce_source parameter must be either 'FinancialModelingPrep', 'YahooFinance' or 'EDGAR'."
             )
 
         # Correct for the case where a Portfolio ticker exists
@@ -3223,6 +3229,7 @@ class Toolkit:
                 fmp_statement_format=self._fmp_balance_sheet_statement_generic,
                 fmp_statistics_format=self._fmp_statistics_statement_generic,
                 yf_statement_format=self._yf_balance_sheet_statement_generic,
+                edgar_statement_format=self._edgar_balance_sheet_statement_generic,
                 sleep_timer=self._sleep_timer,
                 progress_bar=(
                     progress_bar if progress_bar is not None else self._progress_bar
@@ -3382,7 +3389,7 @@ class Toolkit:
         ):
             logger.error(
                 "The requested data requires the api_key parameter to be set or the enforce_source "
-                "parameter set to 'YahooFinance', consider obtaining a key with the following link: "
+                "parameter set to 'YahooFinance' or 'EDGAR', consider obtaining a key with the following link: "
                 "https://www.jeroenbouma.com/fmp"
                 "\nThe free plan allows for 250 requests per day, a limit of 5 years and has no "
                 "quarterly data. Consider upgrading your plan. You can get 15% off by using the "
@@ -3393,9 +3400,10 @@ class Toolkit:
         if enforce_source is not None and enforce_source not in [
             "FinancialModelingPrep",
             "YahooFinance",
+            "EDGAR",
         ]:
             raise ValueError(
-                "The enforce_source parameter must be either 'FinancialModelingPrep' or 'YahooFinance'."
+                "The enforce_source parameter must be either 'FinancialModelingPrep', 'YahooFinance' or 'EDGAR'."
             )
 
         # Correct for the case where a Portfolio ticker exists
@@ -3417,6 +3425,7 @@ class Toolkit:
                 fmp_statement_format=self._fmp_income_statement_generic,
                 fmp_statistics_format=self._fmp_statistics_statement_generic,
                 yf_statement_format=self._yf_income_statement_generic,
+                edgar_statement_format=self._edgar_income_statement_generic,
                 sleep_timer=self._sleep_timer,
                 progress_bar=(
                     progress_bar if progress_bar is not None else self._progress_bar
@@ -3601,7 +3610,7 @@ class Toolkit:
         ):
             logger.error(
                 "The requested data requires the api_key parameter to be set or the enforce_source "
-                "parameter set to 'YahooFinance', consider obtaining a key with the following link: "
+                "parameter set to 'YahooFinance' or 'EDGAR', consider obtaining a key with the following link: "
                 "https://www.jeroenbouma.com/fmp"
                 "\nThe free plan allows for 250 requests per day, a limit of 5 years and has no "
                 "quarterly data. Consider upgrading your plan. You can get 15% off by using the "
@@ -3612,9 +3621,10 @@ class Toolkit:
         if enforce_source is not None and enforce_source not in [
             "FinancialModelingPrep",
             "YahooFinance",
+            "EDGAR",
         ]:
             raise ValueError(
-                "The enforce_source parameter must be either 'FinancialModelingPrep' or 'YahooFinance'."
+                "The enforce_source parameter must be either 'FinancialModelingPrep', 'YahooFinance' or 'EDGAR'."
             )
 
         # Correct for the case where a Portfolio ticker exists
@@ -3636,6 +3646,7 @@ class Toolkit:
                 fmp_statement_format=self._fmp_cash_flow_statement_generic,
                 fmp_statistics_format=self._fmp_statistics_statement_generic,
                 yf_statement_format=self._yf_cash_flow_statement_generic,
+                edgar_statement_format=self._edgar_cash_flow_statement_generic,
                 sleep_timer=self._sleep_timer,
                 progress_bar=(
                     progress_bar if progress_bar is not None else self._progress_bar
@@ -3767,9 +3778,10 @@ class Toolkit:
         if enforce_source is not None and enforce_source not in [
             "FinancialModelingPrep",
             "YahooFinance",
+            "EDGAR",
         ]:
             raise ValueError(
-                "The enforce_source parameter must be either 'FinancialModelingPrep' or 'YahooFinance'."
+                "The enforce_source parameter must be either 'FinancialModelingPrep', 'YahooFinance' or 'EDGAR'."
             )
 
         # Correct for the case where a Portfolio ticker exists
@@ -3791,6 +3803,7 @@ class Toolkit:
                 fmp_statement_format=self._fmp_balance_sheet_statement_generic,
                 fmp_statistics_format=self._fmp_statistics_statement_generic,
                 yf_statement_format=self._yf_balance_sheet_statement_generic,
+                edgar_statement_format=self._edgar_balance_sheet_statement_generic,
                 sleep_timer=self._sleep_timer,
                 progress_bar=(
                     progress_bar if progress_bar is not None else self._progress_bar

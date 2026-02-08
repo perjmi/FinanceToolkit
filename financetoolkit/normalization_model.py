@@ -51,10 +51,13 @@ def initialize_statements_and_normalization(
     norm_file_names = [
         "balance",
         "balance_yf",
+        "balance_edgar",
         "income",
         "income_yf",
+        "income_edgar",
         "cash",
         "cash_yf",
+        "cash_edgar",
         "statistics",
     ]
     norm_formats = {
@@ -62,10 +65,13 @@ def initialize_statements_and_normalization(
     }
     fmp_balance_sheet_statement_generic = norm_formats["balance"]
     yf_balance_sheet_statement_generic = norm_formats["balance_yf"]
+    edgar_balance_sheet_statement_generic = norm_formats["balance_edgar"]
     fmp_income_statement_generic = norm_formats["income"]
     yf_income_statement_generic = norm_formats["income_yf"]
+    edgar_income_statement_generic = norm_formats["income_edgar"]
     fmp_cash_flow_statement_generic = norm_formats["cash"]
     yf_cash_flow_statement_generic = norm_formats["cash_yf"]
+    edgar_cash_flow_statement_generic = norm_formats["cash_edgar"]
     fmp_statistics_statement_generic = norm_formats["statistics"]
 
     def _process_or_load_statement(
@@ -179,10 +185,13 @@ def initialize_statements_and_normalization(
         statistics_statement,
         fmp_balance_sheet_statement_generic,
         yf_balance_sheet_statement_generic,
+        edgar_balance_sheet_statement_generic,
         fmp_income_statement_generic,
         yf_income_statement_generic,
+        edgar_income_statement_generic,
         fmp_cash_flow_statement_generic,
         yf_cash_flow_statement_generic,
+        edgar_cash_flow_statement_generic,
         fmp_statistics_statement_generic,
     )
 
@@ -202,10 +211,13 @@ def read_normalization_file(statement: str, format_location: str = ""):
     if statement not in [
         "balance_yf",
         "balance",
+        "balance_edgar",
         "income_yf",
         "income",
+        "income_edgar",
         "cash_yf",
         "cash",
+        "cash_edgar",
         "statistics_yf",
         "statistics",
     ]:
