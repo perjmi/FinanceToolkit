@@ -1,0 +1,702 @@
+Ticker,Name,Sector,Date Added,Status,Date Removed
+MMM,3M,Industrial Conglomerates,0000066740,Current,
+AOS,A. O. Smith,Building Products,0000091142,Current,
+ABT,Abbott Laboratories,Health Care Equipment,0000001800,Current,
+ABBV,AbbVie,Biotechnology,0001551152,Current,
+ACN,Accenture,IT Consulting & Other Services,0001467373,Current,
+ADBE,Adobe Inc.,Application Software,0000796343,Current,
+AMD,Advanced Micro Devices,Semiconductors,0000002488,Current,
+AES,AES Corporation,Independent Power Producers & Energy Traders,0000874761,Current,
+AFL,Aflac,Life & Health Insurance,0000004977,Current,
+A,Agilent Technologies,Life Sciences Tools & Services,0001090872,Current,
+APD,Air Products,Industrial Gases,0000002969,Current,
+ABNB,Airbnb,"Hotels, Resorts & Cruise Lines",0001559720,Current,
+AKAM,Akamai Technologies,Internet Services & Infrastructure,0001086222,Current,
+ALB,Albemarle Corporation,Specialty Chemicals,0000915913,Current,
+ARE,Alexandria Real Estate Equities,Office REITs,0001035443,Current,
+ALGN,Align Technology,Health Care Supplies,0001097149,Current,
+ALLE,Allegion,Building Products,0001579241,Current,
+LNT,Alliant Energy,Electric Utilities,0000352541,Current,
+ALL,Allstate,Property & Casualty Insurance,0000899051,Current,
+GOOGL,Alphabet Inc.(Class A),Interactive Media & Services,0001652044,Current,
+GOOG,Alphabet Inc.(Class C),Interactive Media & Services,0001652044,Current,
+MO,Altria,Tobacco,0000764180,Current,
+AMZN,Amazon,Broadline Retail,0001018724,Current,
+AMCR,Amcor,Paper & Plastic Packaging Products & Materials,0001748790,Current,
+AEE,Ameren,Multi-Utilities,0001002910,Current,
+AEP,American Electric Power,Electric Utilities,0000004904,Current,
+AXP,American Express,Consumer Finance,0000004962,Current,
+AIG,American International Group,Multi-line Insurance,0000005272,Current,
+AMT,American Tower,Telecom Tower REITs,0001053507,Current,
+AWK,American Water Works,Water Utilities,0001410636,Current,
+AMP,Ameriprise Financial,Asset Management & Custody Banks,0000820027,Current,
+AME,Ametek,Electrical Components & Equipment,0001037868,Current,
+AMGN,Amgen,Biotechnology,0000318154,Current,
+APH,Amphenol,Electronic Components,0000820313,Current,
+ADI,Analog Devices,Semiconductors,0000006281,Current,
+AON,Aon plc,Insurance Brokers,0000315293,Current,
+APA,APA Corporation,Oil & Gas Exploration & Production,0001841666,Current,
+APO,Apollo Global Management,Asset Management & Custody Banks,0001858681,Current,
+AAPL,Apple Inc.,"Technology Hardware, Storage & Peripherals",0000320193,Current,
+AMAT,Applied Materials,Semiconductor Materials & Equipment,0000006951,Current,
+APP,AppLovin,Application Software,0001751008,Current,
+APTV,Aptiv,Automotive Parts & Equipment,0001521332,Current,
+ACGL,Arch Capital Group,Property & Casualty Insurance,0000947484,Current,
+ADM,Archer Daniels Midland,Agricultural Products & Services,0000007084,Current,
+ARES,Ares Management,Asset Management & Custody Banks,0001176948,Current,
+ANET,Arista Networks,Communications Equipment,0001596532,Current,
+AJG,Arthur J. Gallagher & Co.,Insurance Brokers,0000354190,Current,
+AIZ,Assurant,Multi-line Insurance,0001267238,Current,
+T,AT&T,Integrated Telecommunication Services,0000732717,Current,
+ATO,Atmos Energy,Gas Utilities,0000731802,Current,
+ADSK,Autodesk,Application Software,0000769397,Current,
+ADP,Automatic Data Processing,Human Resource & Employment Services,0000008670,Current,
+AZO,AutoZone,Automotive Retail,0000866787,Current,
+AVB,AvalonBay Communities,Multi-Family Residential REITs,0000915912,Current,
+AVY,Avery Dennison,Paper & Plastic Packaging Products & Materials,0000008818,Current,
+AXON,Axon Enterprise,Aerospace & Defense,0001069183,Current,
+BKR,Baker Hughes,Oil & Gas Equipment & Services,0001701605,Current,
+BALL,Ball Corporation,"Metal, Glass & Plastic Containers",0000009389,Current,
+BAC,Bank of America,Diversified Banks,0000070858,Current,
+BAX,Baxter International,Health Care Equipment,0000010456,Current,
+BDX,Becton Dickinson,Health Care Equipment,0000010795,Current,
+BRK-B,Berkshire Hathaway,Multi-Sector Holdings,0001067983,Current,
+BBY,Best Buy,Computer & Electronics Retail,0000764478,Current,
+TECH,Bio-Techne,Life Sciences Tools & Services,0000842023,Current,
+BIIB,Biogen,Biotechnology,0000875045,Current,
+BLK,BlackRock,Asset Management & Custody Banks,0002012383,Current,
+BX,Blackstone Inc.,Asset Management & Custody Banks,0001393818,Current,
+XYZ,"Block, Inc.",Transaction & Payment Processing Services,0001512673,Current,
+BK,BNY Mellon,Asset Management & Custody Banks,0001390777,Current,
+BA,Boeing,Aerospace & Defense,0000012927,Current,
+BKNG,Booking Holdings,"Hotels, Resorts & Cruise Lines",0001075531,Current,
+BSX,Boston Scientific,Health Care Equipment,0000885725,Current,
+BMY,Bristol Myers Squibb,Pharmaceuticals,0000014272,Current,
+AVGO,Broadcom,Semiconductors,0001730168,Current,
+BR,Broadridge Financial Solutions,Data Processing & Outsourced Services,0001383312,Current,
+BRO,Brown & Brown,Insurance Brokers,0000079282,Current,
+BF-B,Brown–Forman,Distillers & Vintners,0000014693,Current,
+BLDR,Builders FirstSource,Building Products,0001316835,Current,
+BG,Bunge Global,Agricultural Products & Services,0001996862,Current,
+BXP,"BXP, Inc.",Office REITs,0001037540,Current,
+CHRW,C.H. Robinson,Air Freight & Logistics,0001043277,Current,
+CDNS,Cadence Design Systems,Application Software,0000813672,Current,
+CPT,Camden Property Trust,Multi-Family Residential REITs,0000906345,Current,
+CPB,Campbell's Company (The),Packaged Foods & Meats,0000016732,Current,
+COF,Capital One,Consumer Finance,0000927628,Current,
+CAH,Cardinal Health,Health Care Distributors,0000721371,Current,
+CCL,Carnival,"Hotels, Resorts & Cruise Lines",0000815097,Current,
+CARR,Carrier Global,Building Products,0001783180,Current,
+CVNA,Carvana,Automotive Retail,0001690820,Current,
+CAT,Caterpillar Inc.,Construction Machinery & Heavy Transportation Equipment,0000018230,Current,
+CBOE,Cboe Global Markets,Financial Exchanges & Data,0001374310,Current,
+CBRE,CBRE Group,Real Estate Services,0001138118,Current,
+CDW,CDW Corporation,Technology Distributors,0001402057,Current,
+COR,Cencora,Health Care Distributors,0001140859,Current,
+CNC,Centene Corporation,Managed Health Care,0001071739,Current,
+CNP,CenterPoint Energy,Multi-Utilities,0001130310,Current,
+CF,CF Industries,Fertilizers & Agricultural Chemicals,0001324404,Current,
+CRL,Charles River Laboratories,Life Sciences Tools & Services,0001100682,Current,
+SCHW,Charles Schwab Corporation,Investment Banking & Brokerage,0000316709,Current,
+CHTR,Charter Communications,Cable & Satellite,0001091667,Current,
+CVX,Chevron Corporation,Integrated Oil & Gas,0000093410,Current,
+CMG,Chipotle Mexican Grill,Restaurants,0001058090,Current,
+CB,Chubb Limited,Property & Casualty Insurance,0000896159,Current,
+CHD,Church & Dwight,Household Products,0000313927,Current,
+CIEN,Ciena,Communications Equipment,0000936395,Current,
+CI,Cigna,Health Care Services,0001739940,Current,
+CINF,Cincinnati Financial,Property & Casualty Insurance,0000020286,Current,
+CTAS,Cintas,Diversified Support Services,0000723254,Current,
+CSCO,Cisco,Communications Equipment,0000858877,Current,
+C,Citigroup,Diversified Banks,0000831001,Current,
+CFG,Citizens Financial Group,Regional Banks,0000759944,Current,
+CLX,Clorox,Household Products,0000021076,Current,
+CME,CME Group,Financial Exchanges & Data,0001156375,Current,
+CMS,CMS Energy,Multi-Utilities,0000811156,Current,
+KO,Coca-Cola Company (The),Soft Drinks & Non-alcoholic Beverages,0000021344,Current,
+CTSH,Cognizant,IT Consulting & Other Services,0001058290,Current,
+COIN,Coinbase,Financial Exchanges & Data,0001679788,Current,
+CL,Colgate-Palmolive,Household Products,0000021665,Current,
+CMCSA,Comcast,Cable & Satellite,0001166691,Current,
+FIX,Comfort Systems USA,Construction & Engineering,0001035983,Current,
+CAG,Conagra Brands,Packaged Foods & Meats,0000023217,Current,
+COP,ConocoPhillips,Oil & Gas Exploration & Production,0001163165,Current,
+ED,Consolidated Edison,Multi-Utilities,0001047862,Current,
+STZ,Constellation Brands,Distillers & Vintners,0000016918,Current,
+CEG,Constellation Energy,Electric Utilities,0001868275,Current,
+COO,Cooper Companies (The),Health Care Supplies,0000711404,Current,
+CPRT,Copart,Diversified Support Services,0000900075,Current,
+GLW,Corning Inc.,Electronic Components,0000024741,Current,
+CPAY,Corpay,Transaction & Payment Processing Services,0001175454,Current,
+CTVA,Corteva,Fertilizers & Agricultural Chemicals,0001755672,Current,
+CSGP,CoStar Group,Real Estate Services,0001057352,Current,
+COST,Costco,Consumer Staples Merchandise Retail,0000909832,Current,
+CTRA,Coterra,Oil & Gas Exploration & Production,0000858470,Current,
+CRH,CRH plc,Construction Materials,0000849395,Current,
+CRWD,CrowdStrike,Systems Software,0001535527,Current,
+CCI,Crown Castle,Telecom Tower REITs,0001051470,Current,
+CSX,CSX Corporation,Rail Transportation,0000277948,Current,
+CMI,Cummins,Construction Machinery & Heavy Transportation Equipment,0000026172,Current,
+CVS,CVS Health,Health Care Services,0000064803,Current,
+DHR,Danaher Corporation,Life Sciences Tools & Services,0000313616,Current,
+DRI,Darden Restaurants,Restaurants,0000940944,Current,
+DDOG,Datadog,Application Software,0001561550,Current,
+DVA,DaVita,Health Care Services,0000927066,Current,
+DECK,Deckers Brands,Footwear,0000910521,Current,
+DE,Deere & Company,Agricultural & Farm Machinery,0000315189,Current,
+DELL,Dell Technologies,"Technology Hardware, Storage & Peripherals",0001571996,Current,
+DAL,Delta Air Lines,Passenger Airlines,0000027904,Current,
+DVN,Devon Energy,Oil & Gas Exploration & Production,0001090012,Current,
+DXCM,Dexcom,Health Care Equipment,0001093557,Current,
+FANG,Diamondback Energy,Oil & Gas Exploration & Production,0001539838,Current,
+DLR,Digital Realty,Data Center REITs,0001297996,Current,
+DG,Dollar General,Consumer Staples Merchandise Retail,0000029534,Current,
+DLTR,Dollar Tree,Consumer Staples Merchandise Retail,0000935703,Current,
+D,Dominion Energy,Multi-Utilities,0000715957,Current,
+DPZ,Domino's,Restaurants,0001286681,Current,
+DASH,DoorDash,Specialized Consumer Services,0001792789,Current,
+DOV,Dover Corporation,Industrial Machinery & Supplies & Components,0000029905,Current,
+DOW,Dow Inc.,Commodity Chemicals,0001751788,Current,
+DHI,D. R. Horton,Homebuilding,0000882184,Current,
+DTE,DTE Energy,Multi-Utilities,0000936340,Current,
+DUK,Duke Energy,Electric Utilities,0001326160,Current,
+DD,DuPont,Specialty Chemicals,0001666700,Current,
+ETN,Eaton Corporation,Electrical Components & Equipment,0001551182,Current,
+EBAY,eBay Inc.,Broadline Retail,0001065088,Current,
+ECL,Ecolab,Specialty Chemicals,0000031462,Current,
+EIX,Edison International,Electric Utilities,0000827052,Current,
+EW,Edwards Lifesciences,Health Care Equipment,0001099800,Current,
+EA,Electronic Arts,Interactive Home Entertainment,0000712515,Current,
+ELV,Elevance Health,Managed Health Care,0001156039,Current,
+EME,Emcor,Construction & Engineering,0000105634,Current,
+EMR,Emerson Electric,Electrical Components & Equipment,0000032604,Current,
+ETR,Entergy,Electric Utilities,0000065984,Current,
+EOG,EOG Resources,Oil & Gas Exploration & Production,0000821189,Current,
+EPAM,EPAM Systems,IT Consulting & Other Services,0001352010,Current,
+EQT,EQT Corporation,Oil & Gas Exploration & Production,0000033213,Current,
+EFX,Equifax,Research & Consulting Services,0000033185,Current,
+EQIX,Equinix,Data Center REITs,0001101239,Current,
+EQR,Equity Residential,Multi-Family Residential REITs,0000906107,Current,
+ERIE,Erie Indemnity,Insurance Brokers,0000922621,Current,
+ESS,Essex Property Trust,Multi-Family Residential REITs,0000920522,Current,
+EL,Estée Lauder Companies (The),Personal Care Products,0001001250,Current,
+EG,Everest Group,Reinsurance,0001095073,Current,
+EVRG,Evergy,Electric Utilities,0001711269,Current,
+ES,Eversource Energy,Electric Utilities,0000072741,Current,
+EXC,Exelon,Electric Utilities,0001109357,Current,
+EXE,Expand Energy,Oil & Gas Exploration & Production,0000895126,Current,
+EXPE,Expedia Group,"Hotels, Resorts & Cruise Lines",0001324424,Current,
+EXPD,Expeditors International,Air Freight & Logistics,0000746515,Current,
+EXR,Extra Space Storage,Self-Storage REITs,0001289490,Current,
+XOM,ExxonMobil,Integrated Oil & Gas,0000034088,Current,
+FFIV,"F5, Inc.",Communications Equipment,0001048695,Current,
+FDS,FactSet,Financial Exchanges & Data,0001013237,Current,
+FICO,Fair Isaac,Application Software,0000814547,Current,
+FAST,Fastenal,Trading Companies & Distributors,0000815556,Current,
+FRT,Federal Realty Investment Trust,Retail REITs,0000034903,Current,
+FDX,FedEx,Air Freight & Logistics,0001048911,Current,
+FIS,Fidelity National Information Services,Transaction & Payment Processing Services,0001136893,Current,
+FITB,Fifth Third Bancorp,Regional Banks,0000035527,Current,
+FSLR,First Solar,Semiconductors,0001274494,Current,
+FE,FirstEnergy,Electric Utilities,0001031296,Current,
+FISV,Fiserv,Transaction & Payment Processing Services,0000798354,Current,
+F,Ford Motor Company,Automobile Manufacturers,0000037996,Current,
+FTNT,Fortinet,Systems Software,0001262039,Current,
+FTV,Fortive,Industrial Machinery & Supplies & Components,0001659166,Current,
+FOXA,Fox Corporation(Class A),Broadcasting,0001754301,Current,
+FOX,Fox Corporation(Class B),Broadcasting,0001754301,Current,
+BEN,Franklin Resources,Asset Management & Custody Banks,0000038777,Current,
+FCX,Freeport-McMoRan,Copper,0000831259,Current,
+GRMN,Garmin,Consumer Electronics,0001121788,Current,
+IT,Gartner,IT Consulting & Other Services,0000749251,Current,
+GE,GE Aerospace,Aerospace & Defense,0000040545,Current,
+GEHC,GE HealthCare,Health Care Equipment,0001932393,Current,
+GEV,GE Vernova,Heavy Electrical Equipment,0001996810,Current,
+GEN,Gen Digital,Systems Software,0000849399,Current,
+GNRC,Generac,Electrical Components & Equipment,0001474735,Current,
+GD,General Dynamics,Aerospace & Defense,0000040533,Current,
+GIS,General Mills,Packaged Foods & Meats,0000040704,Current,
+GM,General Motors,Automobile Manufacturers,0001467858,Current,
+GPC,Genuine Parts Company,Distributors,0000040987,Current,
+GILD,Gilead Sciences,Biotechnology,0000882095,Current,
+GPN,Global Payments,Transaction & Payment Processing Services,0001123360,Current,
+GL,Globe Life,Life & Health Insurance,0000320335,Current,
+GDDY,GoDaddy,Internet Services & Infrastructure,0001609711,Current,
+GS,Goldman Sachs,Investment Banking & Brokerage,0000886982,Current,
+HAL,Halliburton,Oil & Gas Equipment & Services,0000045012,Current,
+HIG,Hartford (The),Property & Casualty Insurance,0000874766,Current,
+HAS,Hasbro,Leisure Products,0000046080,Current,
+HCA,HCA Healthcare,Health Care Facilities,0000860730,Current,
+DOC,Healthpeak Properties,Health Care REITs,0000765880,Current,
+HSIC,Henry Schein,Health Care Distributors,0001000228,Current,
+HSY,Hershey Company (The),Packaged Foods & Meats,0000047111,Current,
+HPE,Hewlett Packard Enterprise,"Technology Hardware, Storage & Peripherals",0001645590,Current,
+HLT,Hilton Worldwide,"Hotels, Resorts & Cruise Lines",0001585689,Current,
+HOLX,Hologic,Health Care Equipment,0000859737,Current,
+HD,Home Depot (The),Home Improvement Retail,0000354950,Current,
+HON,Honeywell,Industrial Conglomerates,0000773840,Current,
+HRL,Hormel Foods,Packaged Foods & Meats,0000048465,Current,
+HST,Host Hotels & Resorts,Hotel & Resort REITs,0001070750,Current,
+HWM,Howmet Aerospace,Aerospace & Defense,0000004281,Current,
+HPQ,HP Inc.,"Technology Hardware, Storage & Peripherals",0000047217,Current,
+HUBB,Hubbell Incorporated,Industrial Machinery & Supplies & Components,0000048898,Current,
+HUM,Humana,Managed Health Care,0000049071,Current,
+HBAN,Huntington Bancshares,Regional Banks,0000049196,Current,
+HII,Huntington Ingalls Industries,Aerospace & Defense,0001501585,Current,
+IBM,IBM,IT Consulting & Other Services,0000051143,Current,
+IEX,IDEX Corporation,Industrial Machinery & Supplies & Components,0000832101,Current,
+IDXX,Idexx Laboratories,Health Care Equipment,0000874716,Current,
+ITW,Illinois Tool Works,Industrial Machinery & Supplies & Components,0000049826,Current,
+INCY,Incyte,Biotechnology,0000879169,Current,
+IR,Ingersoll Rand,Industrial Machinery & Supplies & Components,0001699150,Current,
+PODD,Insulet Corporation,Health Care Equipment,0001145197,Current,
+INTC,Intel,Semiconductors,0000050863,Current,
+IBKR,Interactive Brokers,Investment Banking & Brokerage,0001381197,Current,
+ICE,Intercontinental Exchange,Financial Exchanges & Data,0001571949,Current,
+IFF,International Flavors & Fragrances,Specialty Chemicals,0000051253,Current,
+IP,International Paper,Paper & Plastic Packaging Products & Materials,0000051434,Current,
+INTU,Intuit,Application Software,0000896878,Current,
+ISRG,Intuitive Surgical,Health Care Equipment,0001035267,Current,
+IVZ,Invesco,Asset Management & Custody Banks,0000914208,Current,
+INVH,Invitation Homes,Single-Family Residential REITs,0001687229,Current,
+IQV,IQVIA,Life Sciences Tools & Services,0001478242,Current,
+IRM,Iron Mountain,Other Specialized REITs,0001020569,Current,
+JBHT,J.B. Hunt,Cargo Ground Transportation,0000728535,Current,
+JBL,Jabil,Electronic Manufacturing Services,0000898293,Current,
+JKHY,Jack Henry & Associates,Transaction & Payment Processing Services,0000779152,Current,
+J,Jacobs Solutions,Construction & Engineering,0000052988,Current,
+JNJ,Johnson & Johnson,Pharmaceuticals,0000200406,Current,
+JCI,Johnson Controls,Building Products,0000833444,Current,
+JPM,JPMorgan Chase,Diversified Banks,0000019617,Current,
+KVUE,Kenvue,Personal Care Products,0001944048,Current,
+KDP,Keurig Dr Pepper,Soft Drinks & Non-alcoholic Beverages,0001418135,Current,
+KEY,KeyCorp,Regional Banks,0000091576,Current,
+KEYS,Keysight Technologies,Electronic Equipment & Instruments,0001601046,Current,
+KMB,Kimberly-Clark,Household Products,0000055785,Current,
+KIM,Kimco Realty,Retail REITs,0000879101,Current,
+KMI,Kinder Morgan,Oil & Gas Storage & Transportation,0001506307,Current,
+KKR,KKR & Co.,Asset Management & Custody Banks,0001404912,Current,
+KLAC,KLA Corporation,Semiconductor Materials & Equipment,0000319201,Current,
+KHC,Kraft Heinz,Packaged Foods & Meats,0001637459,Current,
+KR,Kroger,Food Retail,0000056873,Current,
+LHX,L3Harris,Aerospace & Defense,0000202058,Current,
+LH,Labcorp,Health Care Services,0000920148,Current,
+LRCX,Lam Research,Semiconductor Materials & Equipment,0000707549,Current,
+LW,Lamb Weston,Packaged Foods & Meats,0001679273,Current,
+LVS,Las Vegas Sands,Casinos & Gaming,0001300514,Current,
+LDOS,Leidos,Diversified Support Services,0001336920,Current,
+LEN,Lennar,Homebuilding,0000920760,Current,
+LII,Lennox International,Building Products,0001069202,Current,
+LLY,Lilly (Eli),Pharmaceuticals,0000059478,Current,
+LIN,Linde plc,Industrial Gases,0001707925,Current,
+LYV,Live Nation Entertainment,Movies & Entertainment,0001335258,Current,
+LMT,Lockheed Martin,Aerospace & Defense,0000936468,Current,
+L,Loews Corporation,Multi-line Insurance,0000060086,Current,
+LOW,Lowe's,Home Improvement Retail,0000060667,Current,
+LULU,Lululemon Athletica,"Apparel, Accessories & Luxury Goods",0001397187,Current,
+LYB,LyondellBasell,Specialty Chemicals,0001489393,Current,
+MTB,M&T Bank,Regional Banks,0000036270,Current,
+MPC,Marathon Petroleum,Oil & Gas Refining & Marketing,0001510295,Current,
+MAR,Marriott International,"Hotels, Resorts & Cruise Lines",0001048286,Current,
+MRSH,Marsh McLennan,Insurance Brokers,0000062709,Current,
+MLM,Martin Marietta Materials,Construction Materials,0000916076,Current,
+MAS,Masco,Building Products,0000062996,Current,
+MA,Mastercard,Transaction & Payment Processing Services,0001141391,Current,
+MTCH,Match Group,Interactive Media & Services,0000891103,Current,
+MKC,McCormick & Company,Packaged Foods & Meats,0000063754,Current,
+MCD,McDonald's,Restaurants,0000063908,Current,
+MCK,McKesson Corporation,Health Care Distributors,0000927653,Current,
+MDT,Medtronic,Health Care Equipment,0001613103,Current,
+MRK,Merck & Co.,Pharmaceuticals,0000310158,Current,
+META,Meta Platforms,Interactive Media & Services,0001326801,Current,
+MET,MetLife,Life & Health Insurance,0001099219,Current,
+MTD,Mettler Toledo,Life Sciences Tools & Services,0001037646,Current,
+MGM,MGM Resorts,Casinos & Gaming,0000789570,Current,
+MCHP,Microchip Technology,Semiconductors,0000827054,Current,
+MU,Micron Technology,Semiconductors,0000723125,Current,
+MSFT,Microsoft,Systems Software,0000789019,Current,
+MAA,Mid-America Apartment Communities,Multi-Family Residential REITs,0000912595,Current,
+MRNA,Moderna,Biotechnology,0001682852,Current,
+MOH,Molina Healthcare,Managed Health Care,0001179929,Current,
+TAP,Molson Coors Beverage Company,Brewers,0000024545,Current,
+MDLZ,Mondelez International,Packaged Foods & Meats,0001103982,Current,
+MPWR,Monolithic Power Systems,Semiconductors,0001280452,Current,
+MNST,Monster Beverage,Soft Drinks & Non-alcoholic Beverages,0000865752,Current,
+MCO,Moody's Corporation,Financial Exchanges & Data,0001059556,Current,
+MS,Morgan Stanley,Investment Banking & Brokerage,0000895421,Current,
+MOS,Mosaic Company (The),Fertilizers & Agricultural Chemicals,0001285785,Current,
+MSI,Motorola Solutions,Communications Equipment,0000068505,Current,
+MSCI,MSCI Inc.,Financial Exchanges & Data,0001408198,Current,
+NDAQ,"Nasdaq, Inc.",Financial Exchanges & Data,0001120193,Current,
+NTAP,NetApp,"Technology Hardware, Storage & Peripherals",0001002047,Current,
+NFLX,Netflix,Movies & Entertainment,0001065280,Current,
+NEM,Newmont,Gold,0001164727,Current,
+NWSA,News Corp(Class A),Publishing,0001564708,Current,
+NWS,News Corp(Class B),Publishing,0001564708,Current,
+NEE,NextEra Energy,Multi-Utilities,0000753308,Current,
+NKE,"Nike, Inc.","Apparel, Accessories & Luxury Goods",0000320187,Current,
+NI,NiSource,Multi-Utilities,0001111711,Current,
+NDSN,Nordson Corporation,Industrial Machinery & Supplies & Components,0000072331,Current,
+NSC,Norfolk Southern,Rail Transportation,0000702165,Current,
+NTRS,Northern Trust,Asset Management & Custody Banks,0000073124,Current,
+NOC,Northrop Grumman,Aerospace & Defense,0001133421,Current,
+NCLH,Norwegian Cruise Line Holdings,"Hotels, Resorts & Cruise Lines",0001513761,Current,
+NRG,NRG Energy,Independent Power Producers & Energy Traders,0001013871,Current,
+NUE,Nucor,Steel,0000073309,Current,
+NVDA,Nvidia,Semiconductors,0001045810,Current,
+NVR,"NVR, Inc.",Homebuilding,0000906163,Current,
+NXPI,NXP Semiconductors,Semiconductors,0001413447,Current,
+ORLY,O’Reilly Automotive,Automotive Retail,0000898173,Current,
+OXY,Occidental Petroleum,Oil & Gas Exploration & Production,0000797468,Current,
+ODFL,Old Dominion,Cargo Ground Transportation,0000878927,Current,
+OMC,Omnicom Group,Advertising,0000029989,Current,
+ON,ON Semiconductor,Semiconductors,0001097864,Current,
+OKE,Oneok,Oil & Gas Storage & Transportation,0001039684,Current,
+ORCL,Oracle Corporation,Application Software,0001341439,Current,
+OTIS,Otis Worldwide,Industrial Machinery & Supplies & Components,0001781335,Current,
+PCAR,Paccar,Construction Machinery & Heavy Transportation Equipment,0000075362,Current,
+PKG,Packaging Corporation of America,Paper & Plastic Packaging Products & Materials,0000075677,Current,
+PLTR,Palantir Technologies,Application Software,0001321655,Current,
+PANW,Palo Alto Networks,Systems Software,0001327567,Current,
+PSKY,Paramount Skydance Corporation,Movies & Entertainment,0002041610,Current,
+PH,Parker Hannifin,Industrial Machinery & Supplies & Components,0000076334,Current,
+PAYX,Paychex,Human Resource & Employment Services,0000723531,Current,
+PAYC,Paycom,Human Resource & Employment Services,0001590955,Current,
+PYPL,PayPal,Transaction & Payment Processing Services,0001633917,Current,
+PNR,Pentair,Industrial Machinery & Supplies & Components,0000077360,Current,
+PEP,PepsiCo,Soft Drinks & Non-alcoholic Beverages,0000077476,Current,
+PFE,Pfizer,Pharmaceuticals,0000078003,Current,
+PCG,PG&E Corporation,Multi-Utilities,0001004980,Current,
+PM,Philip Morris International,Tobacco,0001413329,Current,
+PSX,Phillips 66,Oil & Gas Refining & Marketing,0001534701,Current,
+PNW,Pinnacle West Capital,Multi-Utilities,0000764622,Current,
+PNC,PNC Financial Services,Diversified Banks,0000713676,Current,
+POOL,Pool Corporation,Distributors,0000945841,Current,
+PPG,PPG Industries,Specialty Chemicals,0000079879,Current,
+PPL,PPL Corporation,Electric Utilities,0000922224,Current,
+PFG,Principal Financial Group,Life & Health Insurance,0001126328,Current,
+PG,Procter & Gamble,Personal Care Products,0000080424,Current,
+PGR,Progressive Corporation,Property & Casualty Insurance,0000080661,Current,
+PLD,Prologis,Industrial REITs,0001045609,Current,
+PRU,Prudential Financial,Life & Health Insurance,0001137774,Current,
+PEG,Public Service Enterprise Group,Electric Utilities,0000788784,Current,
+PTC,PTC Inc.,Application Software,0000857005,Current,
+PSA,Public Storage,Self-Storage REITs,0001393311,Current,
+PHM,PulteGroup,Homebuilding,0000822416,Current,
+PWR,Quanta Services,Construction & Engineering,0001050915,Current,
+QCOM,Qualcomm,Semiconductors,0000804328,Current,
+DGX,Quest Diagnostics,Health Care Services,0001022079,Current,
+Q,Qnity Electronics,Semiconductor Materials & Equipment,0002058873,Current,
+RL,Ralph Lauren Corporation,"Apparel, Accessories & Luxury Goods",0001037038,Current,
+RJF,Raymond James Financial,Investment Banking & Brokerage,0000720005,Current,
+RTX,RTX Corporation,Aerospace & Defense,0000101829,Current,
+O,Realty Income,Retail REITs,0000726728,Current,
+REG,Regency Centers,Retail REITs,0000910606,Current,
+REGN,Regeneron Pharmaceuticals,Biotechnology,0000872589,Current,
+RF,Regions Financial Corporation,Regional Banks,0001281761,Current,
+RSG,Republic Services,Environmental & Facilities Services,0001060391,Current,
+RMD,ResMed,Health Care Equipment,0000943819,Current,
+RVTY,Revvity,Health Care Equipment,0000031791,Current,
+HOOD,Robinhood Markets,Investment Banking & Brokerage,0001783879,Current,
+ROK,Rockwell Automation,Electrical Components & Equipment,0001024478,Current,
+ROL,"Rollins, Inc.",Environmental & Facilities Services,0000084839,Current,
+ROP,Roper Technologies,Electronic Equipment & Instruments,0000882835,Current,
+ROST,Ross Stores,Apparel Retail,0000745732,Current,
+RCL,Royal Caribbean Group,"Hotels, Resorts & Cruise Lines",0000884887,Current,
+SPGI,S&P Global,Financial Exchanges & Data,0000064040,Current,
+CRM,Salesforce,Application Software,0001108524,Current,
+SNDK,Sandisk,"Technology Hardware, Storage & Peripherals",0002023554,Current,
+SBAC,SBA Communications,Telecom Tower REITs,0001034054,Current,
+SLB,Schlumberger,Oil & Gas Equipment & Services,0000087347,Current,
+STX,Seagate Technology,"Technology Hardware, Storage & Peripherals",0001137789,Current,
+SRE,Sempra,Multi-Utilities,0001032208,Current,
+NOW,ServiceNow,Systems Software,0001373715,Current,
+SHW,Sherwin-Williams,Specialty Chemicals,0000089800,Current,
+SPG,Simon Property Group,Retail REITs,0001063761,Current,
+SWKS,Skyworks Solutions,Semiconductors,0000004127,Current,
+SJM,J.M. Smucker Company (The),Packaged Foods & Meats,0000091419,Current,
+SW,Smurfit Westrock,Paper & Plastic Packaging Products & Materials,0002005951,Current,
+SNA,Snap-on,Industrial Machinery & Supplies & Components,0000091440,Current,
+SOLV,Solventum,Health Care Technology,0001964738,Current,
+SO,Southern Company,Electric Utilities,0000092122,Current,
+LUV,Southwest Airlines,Passenger Airlines,0000092380,Current,
+SWK,Stanley Black & Decker,Industrial Machinery & Supplies & Components,0000093556,Current,
+SBUX,Starbucks,Restaurants,0000829224,Current,
+STT,State Street Corporation,Asset Management & Custody Banks,0000093751,Current,
+STLD,Steel Dynamics,Steel,0001022671,Current,
+STE,Steris,Health Care Equipment,0001757898,Current,
+SYK,Stryker Corporation,Health Care Equipment,0000310764,Current,
+SMCI,Supermicro,"Technology Hardware, Storage & Peripherals",0001375365,Current,
+SYF,Synchrony Financial,Consumer Finance,0001601712,Current,
+SNPS,Synopsys,Application Software,0000883241,Current,
+SYY,Sysco,Food Distributors,0000096021,Current,
+TMUS,T-Mobile US,Wireless Telecommunication Services,0001283699,Current,
+TROW,T. Rowe Price,Asset Management & Custody Banks,0001113169,Current,
+TTWO,Take-Two Interactive,Interactive Home Entertainment,0000946581,Current,
+TPR,"Tapestry, Inc.","Apparel, Accessories & Luxury Goods",0001116132,Current,
+TRGP,Targa Resources,Oil & Gas Storage & Transportation,0001389170,Current,
+TGT,Target Corporation,Consumer Staples Merchandise Retail,0000027419,Current,
+TEL,TE Connectivity,Electronic Manufacturing Services,0001385157,Current,
+TDY,Teledyne Technologies,Electronic Equipment & Instruments,0001094285,Current,
+TER,Teradyne,Semiconductor Materials & Equipment,0000097210,Current,
+TSLA,"Tesla, Inc.",Automobile Manufacturers,0001318605,Current,
+TXN,Texas Instruments,Semiconductors,0000097476,Current,
+TPL,Texas Pacific Land Corporation,Oil & Gas Exploration & Production,0001811074,Current,
+TXT,Textron,Aerospace & Defense,0000217346,Current,
+TMO,Thermo Fisher Scientific,Life Sciences Tools & Services,0000097745,Current,
+TJX,TJX Companies,Apparel Retail,0000109198,Current,
+TKO,TKO Group Holdings,Movies & Entertainment,0001973266,Current,
+TTD,Trade Desk (The),Advertising,0001671933,Current,
+TSCO,Tractor Supply,Other Specialty Retail,0000916365,Current,
+TT,Trane Technologies,Building Products,0001466258,Current,
+TDG,TransDigm Group,Aerospace & Defense,0001260221,Current,
+TRV,Travelers Companies (The),Property & Casualty Insurance,0000086312,Current,
+TRMB,Trimble Inc.,Electronic Equipment & Instruments,0000864749,Current,
+TFC,Truist Financial,Diversified Banks,0000092230,Current,
+TYL,Tyler Technologies,Application Software,0000860731,Current,
+TSN,Tyson Foods,Packaged Foods & Meats,0000100493,Current,
+USB,U.S. Bancorp,Diversified Banks,0000036104,Current,
+UBER,Uber,Passenger Ground Transportation,0001543151,Current,
+UDR,"UDR, Inc.",Multi-Family Residential REITs,0000074208,Current,
+ULTA,Ulta Beauty,Other Specialty Retail,0001403568,Current,
+UNP,Union Pacific Corporation,Rail Transportation,0000100885,Current,
+UAL,United Airlines Holdings,Passenger Airlines,0000100517,Current,
+UPS,United Parcel Service,Air Freight & Logistics,0001090727,Current,
+URI,United Rentals,Trading Companies & Distributors,0001067701,Current,
+UNH,UnitedHealth Group,Managed Health Care,0000731766,Current,
+UHS,Universal Health Services,Health Care Facilities,0000352915,Current,
+VLO,Valero Energy,Oil & Gas Refining & Marketing,0001035002,Current,
+VTR,Ventas,Health Care REITs,0000740260,Current,
+VLTO,Veralto,Environmental & Facilities Services,0001967680,Current,
+VRSN,Verisign,Internet Services & Infrastructure,0001014473,Current,
+VRSK,Verisk Analytics,Research & Consulting Services,0001442145,Current,
+VZ,Verizon,Integrated Telecommunication Services,0000732712,Current,
+VRTX,Vertex Pharmaceuticals,Biotechnology,0000875320,Current,
+VTRS,Viatris,Pharmaceuticals,0001792044,Current,
+VICI,Vici Properties,Hotel & Resort REITs,0001705696,Current,
+V,Visa Inc.,Transaction & Payment Processing Services,0001403161,Current,
+VST,Vistra Corp.,Electric Utilities,0001692819,Current,
+VMC,Vulcan Materials Company,Construction Materials,0001396009,Current,
+WRB,W. R. Berkley Corporation,Property & Casualty Insurance,0000011544,Current,
+GWW,W. W. Grainger,Industrial Machinery & Supplies & Components,0000277135,Current,
+WAB,Wabtec,Construction Machinery & Heavy Transportation Equipment,0000943452,Current,
+WMT,Walmart,Consumer Staples Merchandise Retail,0000104169,Current,
+DIS,Walt Disney Company (The),Movies & Entertainment,0001744489,Current,
+WBD,Warner Bros. Discovery,Broadcasting,0001437107,Current,
+WM,Waste Management,Environmental & Facilities Services,0000823768,Current,
+WAT,Waters Corporation,Life Sciences Tools & Services,0001000697,Current,
+WEC,WEC Energy Group,Electric Utilities,0000783325,Current,
+WFC,Wells Fargo,Diversified Banks,0000072971,Current,
+WELL,Welltower,Health Care REITs,0000766704,Current,
+WST,West Pharmaceutical Services,Health Care Supplies,0000105770,Current,
+WDC,Western Digital,"Technology Hardware, Storage & Peripherals",0000106040,Current,
+WY,Weyerhaeuser,Timber REITs,0000106535,Current,
+WSM,"Williams-Sonoma, Inc.",Homefurnishing Retail,0000719955,Current,
+WMB,Williams Companies,Oil & Gas Storage & Transportation,0000107263,Current,
+WTW,Willis Towers Watson,Insurance Brokers,0001140536,Current,
+WDAY,"Workday, Inc.",Application Software,0001327811,Current,
+WYNN,Wynn Resorts,Casinos & Gaming,0001174922,Current,
+XEL,Xcel Energy,Multi-Utilities,0000072903,Current,
+XYL,Xylem Inc.,Industrial Machinery & Supplies & Components,0001524472,Current,
+YUM,Yum! Brands,Restaurants,0001041061,Current,
+ZBRA,Zebra Technologies,Electronic Equipment & Instruments,0000877212,Current,
+ZBH,Zimmer Biomet,Health Care Equipment,0001136869,Current,
+ZTS,Zoetis,Pharmaceuticals,0001555280,Current,
+DAY,Dayforce,,,Removed,"February 9, 2026"
+LKQ,LKQ Corporation,,,Removed,"December 22, 2025"
+SOLS,Solstice Advanced Materials,,,Removed,"December 22, 2025"
+MHK,Mohawk Industries,,,Removed,"December 22, 2025"
+K,Kellanova,,,Removed,"December 11, 2025"
+IPG,Interpublic Group,,,Removed,"November 28, 2025"
+EMN,Eastman Chemical Co.,,,Removed,"November 4, 2025"
+KMX,CarMax,,,Removed,"October 31, 2025"
+ENPH,Enphase Energy,,,Removed,"September 22, 2025"
+CZR,Caesars Entertainment,,,Removed,"September 22, 2025"
+MKTX,MarketAxess,,,Removed,"September 22, 2025"
+WBA,Walgreens Boots Alliance,,,Removed,"August 28, 2025"
+HES,Hess Corporation,,,Removed,"July 23, 2025"
+ANSS,Ansys,,,Removed,"July 18, 2025"
+JNPR,Juniper Networks,,,Removed,"July 9, 2025"
+DFS,Discover Financial,,,Removed,"May 19, 2025"
+BWA,BorgWarner,,,Removed,"March 24, 2025"
+TFX,Teleflex,,,Removed,"March 24, 2025"
+CE,Celanese,,,Removed,"March 24, 2025"
+FMC,FMC Corporation,,,Removed,"March 24, 2025"
+QRVO,Qorvo,,,Removed,"December 23, 2024"
+AMTM,Amentum,,,Removed,"December 23, 2024"
+CTLT,Catalent,,,Removed,"December 23, 2024"
+MRO,Marathon Oil,,,Removed,"November 26, 2024"
+BBWI,"Bath & Body Works, Inc.",,,Removed,"October 1, 2024"
+AAL,American Airlines Group,,,Removed,"September 23, 2024"
+ETSY,Etsy,,,Removed,"September 23, 2024"
+BIO,Bio-Rad Laboratories,,,Removed,"September 23, 2024"
+RHI,Robert Half,,,Removed,"June 24, 2024"
+CMA,Comerica,,,Removed,"June 24, 2024"
+ILMN,"Illumina, Inc.",,,Removed,"June 24, 2024"
+PXD,Pioneer Natural Resources,,,Removed,"May 8, 2024"
+XRAY,Dentsply Sirona,,,Removed,"April 3, 2024"
+VFC,VF Corporation,,,Removed,"April 3, 2024"
+WHR,Whirlpool Corporation,,,Removed,"March 18, 2024"
+ZION,Zions Bancorporation,,,Removed,"March 18, 2024"
+SEE,Sealed Air,,,Removed,"December 18, 2023"
+ALK,Alaska Air Group,,,Removed,"December 18, 2023"
+SEDG,SolarEdge,,,Removed,"December 18, 2023"
+OGN,Organon & Co.,,,Removed,"October 18, 2023"
+ATVI,Activision Blizzard,,,Removed,"October 18, 2023"
+DXC,DXC Technology,,,Removed,"October 3, 2023"
+LNC,Lincoln National Corporation,,,Removed,"September 18, 2023"
+NWL,Newell Brands,,,Removed,"September 18, 2023"
+AAP,Advance Auto Parts,,,Removed,"August 25, 2023"
+DISH,Dish Network,,,Removed,"June 20, 2023"
+FRC,First Republic Bank,,,Removed,"May 4, 2023"
+LUMN,Lumen Technologies,,,Removed,"March 20, 2023"
+SBNY,Signature Bank,,,Removed,"March 15, 2023"
+SIVB,SVB Financial Group,,,Removed,"March 15, 2023"
+VNO,Vornado Realty Trust,,,Removed,"January 5, 2023"
+ABMD,Abiomed,,,Removed,"December 22, 2022"
+FBHS,Fortune Brands Home & Security,,,Removed,"December 19, 2022"
+MBC,MasterBrand,,,Removed,"December 19, 2022"
+TWTR,Twitter,,,Removed,"November 1, 2022"
+NLSN,Nielsen Holdings,,,Removed,"October 12, 2022"
+CTXS,Citrix Systems,,,Removed,"October 3, 2022"
+DRE,Duke Realty,,,Removed,"October 3, 2022"
+PVH,PVH,,,Removed,"September 19, 2022"
+PENN,Penn Entertainment,,,Removed,"September 19, 2022"
+UA,Under Armour(Class C),,,Removed,"June 21, 2022"
+UAA,Under Armour(Class A),,,Removed,"June 21, 2022"
+IPGP,IPG Photonics,,,Removed,"June 21, 2022"
+CERN,Cerner,,,Removed,"June 8, 2022"
+DISCA,"Discovery, Inc.",,,Removed,"April 11, 2022"
+DISCK,"Discovery, Inc.",,,Removed,"April 11, 2022"
+PBCT,People's United Financial,,,Removed,"April 4, 2022"
+INFO,IHS Markit,,,Removed,"March 2, 2022"
+XLNX,Xilinx,,,Removed,"February 15, 2022"
+GPS,Gap,,,Removed,"February 3, 2022"
+LEG,Leggett & Platt,,,Removed,"December 20, 2021"
+HBI,Hanesbrands,,,Removed,"December 20, 2021"
+WU,Western Union,,,Removed,"December 20, 2021"
+KSU,Kansas City Southern,,,Removed,"December 14, 2021"
+PRGO,Perrigo,,,Removed,"September 20, 2021"
+UNM,Unum,,,Removed,"September 20, 2021"
+NOV,Nov,,,Removed,"September 20, 2021"
+MXIM,Maxim Integrated,,,Removed,"August 30, 2021"
+ALXN,Alexion Pharmaceuticals,,,Removed,"July 21, 2021"
+HFC,HollyFrontier,,,Removed,"June 4, 2021"
+FLIR,FLIR Systems,,,Removed,"May 14, 2021"
+VAR,Varian Medical Systems,,,Removed,"April 20, 2021"
+FLS,Flowserve,,,Removed,"March 22, 2021"
+SLG,SL Green Realty,,,Removed,"March 22, 2021"
+XRX,Xerox,,,Removed,"March 22, 2021"
+VNT,Vontier,,,Removed,"March 22, 2021"
+FTI,TechnipFMC,,,Removed,"February 12, 2021"
+CXO,Concho Resources,,,Removed,"January 21, 2021"
+TIF,Tiffany & Co,,,Removed,"January 7, 2021"
+AIV,Apartment Investment & Management,,,Removed,"December 21, 2020"
+NBL,Noble Energy,,,Removed,"October 12, 2020"
+ETFC,E-Trade,,,Removed,"October 7, 2020"
+HRB,H&R Block,,,Removed,"September 21, 2020"
+COTY,Coty,,,Removed,"September 21, 2020"
+KSS,Kohl's,,,Removed,"September 21, 2020"
+ADS,Alliance Data Systems,,,Removed,"June 22, 2020"
+HOG,Harley-Davidson,,,Removed,"June 22, 2020"
+JWN,Nordstrom,,,Removed,"June 22, 2020"
+HP,Helmerich & Payne,,,Removed,"May 22, 2020"
+CPRI,Capri Holdings,,,Removed,"May 12, 2020"
+AGN,Allergan,,,Removed,"May 12, 2020"
+M,Macy's,,,Removed,"April 6, 2020"
+RTN,Raytheon Company,,,Removed,"April 6, 2020"
+ARNC,Arconic,,,Removed,"April 1, 2020"
+XEC,Cimarex Energy,,,Removed,"March 2, 2020"
+WCG,WellCare,,,Removed,"January 28, 2020"
+AMG,Affiliated Managers Group,,,Removed,"December 23, 2019"
+TRIP,TripAdvisor,,,Removed,"December 23, 2019"
+MAC,Macerich,,,Removed,"December 23, 2019"
+STI,SunTrust Banks,,,Removed,"December 9, 2019"
+VIAB,Viacom,,,Removed,"December 5, 2019"
+CELG,Celgene,,,Removed,"November 21, 2019"
+NKTR,Nektar Therapeutics,,,Removed,"October 3, 2019"
+JEF,Jefferies Financial Group,,,Removed,"September 26, 2019"
+TSS,TSYS,,,Removed,"September 23, 2019"
+APC,Anadarko Petroleum,,,Removed,"August 9, 2019"
+FL,Foot Locker,,,Removed,"August 9, 2019"
+RHT,Red Hat,,,Removed,"July 15, 2019"
+LLL,L3 Technologies,,,Removed,"July 1, 2019"
+BMS,Bemis,,,Removed,"June 11, 2019"
+MAT,Mattel,,,Removed,"June 7, 2019"
+DWDP,DuPont,,,Removed,"June 3, 2019"
+FLR,Fluor Corporation,,,Removed,"June 3, 2019"
+BHF,Brighthouse Financial,,,Removed,"April 2, 2019"
+GT,The Goodyear Tire & Rubber Company,,,Removed,"February 27, 2019"
+NFX,Newfield Exploration,,,Removed,"February 15, 2019"
+SCG,SCANA,,,Removed,"January 2, 2019"
+ESRX,Express Scripts,,,Removed,"December 24, 2018"
+COL,Rockwell Collins,,,Removed,"December 3, 2018"
+AET,Aetna,,,Removed,"December 3, 2018"
+SRCL,Stericycle,,,Removed,"December 3, 2018"
+CA,CA Technologies,,,Removed,"November 6, 2018"
+EVHC,Envision Healthcare,,,Removed,"October 11, 2018"
+ANDV,Andeavor,,,Removed,"October 1, 2018"
+XL,XL Group,,,Removed,"September 14, 2018"
+GGP,GGP,,,Removed,"August 28, 2018"
+DPS,Dr Pepper Snapple Group,,,Removed,"July 2, 2018"
+TWX,Time Warner,,,Removed,"June 20, 2018"
+RRC,Range Resources,,,Removed,"June 18, 2018"
+AYI,Acuity Brands,,,Removed,"June 18, 2018"
+MON,Monsanto,,,Removed,"June 7, 2018"
+NAVI,Navient,,,Removed,"June 5, 2018"
+WYN,Wyndham Worldwide,,,Removed,"May 31, 2018"
+CSRA,CSRA,,,Removed,"April 4, 2018"
+SIG,Signet Jewelers,,,Removed,"March 19, 2018"
+PDCO,Patterson Companies,,,Removed,"March 19, 2018"
+CHK,Chesapeake Energy,,,Removed,"March 19, 2018"
+SNI,Scripps Networks Interactive,,,Removed,"March 7, 2018"
+BCR,CR Bard,,,Removed,"January 3, 2018"
+LVLT,Level 3 Communications,,,Removed,"October 13, 2017"
+SPLS,Staples,,,Removed,"September 18, 2017"
+WFM,Whole Foods Market,,,Removed,"August 29, 2017"
+AN,AutoNation,,,Removed,"August 8, 2017"
+RIG,Transocean,,,Removed,"July 26, 2017"
+BBBY,Bed Bath & Beyond,,,Removed,"July 26, 2017"
+MUR,Murphy Oil,,,Removed,"July 26, 2017"
+MNK,Mallinckrodt,,,Removed,"July 26, 2017"
+RAI,Reynolds American,,,Removed,"July 26, 2017"
+BHI,Baker Hughes,,,Removed,"July 7, 2017"
+YHOO,Yahoo!,,,Removed,"June 19, 2017"
+TDC,Teradata,,,Removed,"June 19, 2017"
+R,Ryder System,,,Removed,"June 19, 2017"
+MJN,Mead Johnson,,,Removed,"June 19, 2017"
+TGNA,Tegna,,,Removed,"June 2, 2017"
+DNB,Dun & Bradstreet,,,Removed,"April 5, 2017"
+SWN,Southwestern Energy,,,Removed,"April 4, 2017"
+URBN,Urban Outfitters,,,Removed,"March 20, 2017"
+FTR,Frontier Communications,,,Removed,"March 20, 2017"
+HAR,Harman International,,,Removed,"March 16, 2017"
+LLTC,Linear Technology,,,Removed,"March 13, 2017"
+ENDP,Endo International,,,Removed,"March 2, 2017"
+PBI,Pitney Bowes,,,Removed,"March 1, 2017"
+SE,Spectra Energy,,,Removed,"February 28, 2017"
+STJ,St Jude Medical,,,Removed,"January 5, 2017"
+OI,Owens-Illinois,,,Removed,"December 2, 2016"
+LM,Legg Mason,,,Removed,"December 2, 2016"
+AA,Alcoa,,,Removed,"November 1, 2016"
+DO,Diamond Offshore Drilling,,,Removed,"September 30, 2016"
+HOT,Starwood,,,Removed,"September 22, 2016"
+EMC,EMC Corporation,,,Removed,"September 8, 2016"
+TYC,Tyco International,,,Removed,"September 6, 2016"
+CPGX,Columbia Pipeline Group,,,Removed,"July 5, 2016"
+GAS,AGL Resources,,,Removed,"July 1, 2016"
+TE,TECO Energy,,,Removed,"July 1, 2016"
+CVC,Cablevision Systems,,,Removed,"June 22, 2016"
+BXLT,Baxalta,,,Removed,"June 3, 2016"
+CCE,Coca-Cola Enterprises,,,Removed,"May 31, 2016"
+ARG,Airgas,,,Removed,"May 23, 2016"
+TWC,Time Warner Cable,,,Removed,"May 18, 2016"
+ADT,ADT,,,Removed,"May 3, 2016"
+GME,GameStop,,,Removed,"April 25, 2016"
+THC,Tenet Healthcare,,,Removed,"April 18, 2016"
+CAM,Cameron International,,,Removed,"April 4, 2016"
+POM,Pepco Holdings,,,Removed,"March 30, 2016"
+ESV,Ensco,,,Removed,"March 30, 2016"
+GMCR,Keurig Green Mountain,,,Removed,"March 7, 2016"
+CNX,Consol Energy,,,Removed,"March 4, 2016"
+PCL,Plum Creek Timber,,,Removed,"February 22, 2016"

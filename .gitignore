@@ -21,6 +21,11 @@ debugging.py
 !tests/*/csv/*/*.csv
 !tests/csv/*/*.csv
 
+# S&P 500 EDGAR Data
+!data/sp500_quarterly/*.csv
+!data/sp500_quarterly/*.json
+!data/sp500_quarterly/*.pickle
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
